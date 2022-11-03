@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-2293&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-2293" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@pratyush_gawali" target="blank"><img src="https://img.shields.io/twitter/follow/@pratyush_gawali?logo=twitter&style=for-the-badge" alt="@pratyush_gawali" /></a> </p>
 
 - 🔭 I’m currently working on **Unity**
 
