@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-2293&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-2293" /> </p>
 
 
-- 🔭 I’m currently working on **Unity**
+- 🔭 I’m currently working on **Python, Data Analytics**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Java, Data Structures & Algorithms**
 
 - 📫 Mail me at: **pratyush12gawali@gmail.com**
 
