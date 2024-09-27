@@ -3,8 +3,6 @@
 <h3 align="center">A Game Programmer, Game Designer and a Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-2293&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-2293" /> </p>
-
 
 - ⚙️ I’m currently working on an **Android Game in Unity**
 
