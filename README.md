@@ -1,14 +1,14 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)]
-<h1 align="center">Hi 👋, I'm Pratyush Gawali</h1>
-<h3 align="center">An aspiring Game Developer and Computer Science Student from India</h3>
+<h1 align="center">Hi , I'm Pratyush Gawali</h1>
+<h3 align="center">A Game Programmer, Game Designer and a Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-2293&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-2293" /> </p>
 
 
-- 🔭 I’m currently working on **Python, Data Analytics**
+- ⚙️ I’m currently working on an **Android Game in Unity**
 
-- 🌱 I’m currently learning **Java, Data Structures & Algorithms**
+- 📄 I’m familiar with **C#, Java, Javascript, Python & MySQL**
 
 - 📫 Mail me at: **pratyush12gawali@gmail.com**
 
