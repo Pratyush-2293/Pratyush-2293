@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
+
+
 - ⚙️ I’m currently working on an **Android Game in Unity**
 
 - 📄 I’m familiar with **C#, Java, Javascript, Python & MySQL**
